@@ -6,7 +6,6 @@ const weaviate = new WeaviateService();
 const data = new DataService();
 
 (async() => {
-
     // Initialize the weaviate client & build schema
     await weaviate.init()
 

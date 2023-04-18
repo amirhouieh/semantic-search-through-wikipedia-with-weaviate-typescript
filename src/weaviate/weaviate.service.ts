@@ -92,6 +92,10 @@ export class WeaviateService {
         console.log(`Stored ${storedArticles.length} articles`);
 
         // TODO
+        // add paragraphs
+
+        //TODO
+        // create references
     }
 
 
