@@ -1,6 +1,6 @@
 semantic-search-through-wikipedia-with-weaviate-typescript
 
 
-#run it localy 
+#run it locally 
 - npm install 
-- npm run starte:dev
+- npm run start:dev
